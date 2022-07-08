@@ -1,5 +1,5 @@
 fun main() {
-    val patrick = Dog("Patrick")
-    patrick.bark()
-    println(patrick.name)
+    val Fido = Dog("Fido")
+    Fido.bark()
+    println(Fido.name)
 }
